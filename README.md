@@ -21,7 +21,7 @@ Prepared the Wazuh environment to display data from Apr 29th, 2024 between 12:00
 ![image](https://github.com/user-attachments/assets/5120d4de-51c1-460f-bc0a-c441be5106dc)
 
 511 events generated between 12:00 and 20:00
-![image](https://github.com/user-attachments/assets/314f6ec4-ac86-4a51-b051-cbda66633f58)
+![image](https://github.com/user-attachments/assets/06b374ae-408e-4423-a9d5-cd58da424f95)
 
 In the search bar, searched for “localhost” and accessed the earliest timestamp to find the file downloaded for initial access.
 ![image](https://github.com/user-attachments/assets/c59854f3-4445-4e54-a547-5ec0bf16b7fb)
