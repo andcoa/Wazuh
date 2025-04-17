@@ -14,6 +14,7 @@ To gain hands-on experience in deploying and using Wazuh, an open-source securit
 ## Exercises
 
 Scenario:
+
 ![image](https://github.com/user-attachments/assets/a20c738d-303e-402a-95f8-645f76ab86f0)
 
 Prepared the Wazuh environment to display data from Apr 29th, 2024 between 12:00 and 20:00
