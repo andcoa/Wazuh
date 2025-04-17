@@ -40,6 +40,7 @@ Using cyberchef, the string decodes to “ping www.youarevulnerable.thm”
 ![image](https://github.com/user-attachments/assets/924c5e56-4d6c-4e6a-adc9-755d3de398a3)
 
 To find the password set for a new user account, first search the word “user” in the search bar:
+
 ![image](https://github.com/user-attachments/assets/d5d5f525-1725-4137-acb5-c3cecbeb849f)
 
 The password “I_AM_M0NIT0RING” shows up while analyzing the logs:
