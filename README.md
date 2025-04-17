@@ -16,10 +16,10 @@ To gain hands-on experience in deploying and using Wazuh, an open-source securit
 Scenario:
 
 
-Prepared the Wazuh environment to display data from Apr 29th, 2024 between 12:00 and 20:00
+Prepared the Wazuh environment to display data from Apr 29th, 2024 between 12:00 and 20:00.
 ![image](https://github.com/user-attachments/assets/1ff8d307-8436-4500-bed6-8f4ae5807a34)
 
-511 events generated between 12:00 and 20:00
+511 events generated between 12:00 and 20:00.
 ![image](https://github.com/user-attachments/assets/06b374ae-408e-4423-a9d5-cd58da424f95)
 
 In the search bar, searched for “localhost” and accessed the earliest timestamp to find the file downloaded for initial access.
@@ -35,7 +35,7 @@ The command is set to run at 12:34.
 In order to find what was encoded in the command above, the following string will be decoded:
 ![image](https://github.com/user-attachments/assets/e6087f85-37d7-4635-8b97-7383f8c014fb)
 
-Using cyberchef, the string decodes to “ping www.youarevulnerable.thm”
+Using cyberchef, the string decodes to “ping www.youarevulnerable.thm”.
 ![image](https://github.com/user-attachments/assets/924c5e56-4d6c-4e6a-adc9-755d3de398a3)
 
 To find the password set for a new user account, first search the word “user” in the search bar:
