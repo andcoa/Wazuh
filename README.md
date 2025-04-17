@@ -15,10 +15,10 @@ To gain hands-on experience in deploying and using Wazuh, an open-source securit
 
 Scenario:
 
-![image](https://github.com/user-attachments/assets/a20c738d-303e-402a-95f8-645f76ab86f0)
+![image](h)
 
 Prepared the Wazuh environment to display data from Apr 29th, 2024 between 12:00 and 20:00
-![image](https://github.com/user-attachments/assets/5120d4de-51c1-460f-bc0a-c441be5106dc)
+![image](https://github.com/user-attachments/assets/1ff8d307-8436-4500-bed6-8f4ae5807a34)
 
 511 events generated between 12:00 and 20:00
 ![image](https://github.com/user-attachments/assets/06b374ae-408e-4423-a9d5-cd58da424f95)
