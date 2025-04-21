@@ -6,10 +6,10 @@ To gain hands-on experience in deploying and using Wazuh, an open-source securit
 
 ## Skills Learned
 
-- 🛠️ SIEM Deployment: Configured Wazuh Manager, Agent, and Dashboard components for centralized monitoring.
-- 🚨 Alert Correlation: Investigated Wazuh-generated alerts, reviewed rulesets, and identified high-confidence security incidents.
-- 🔒 Host-Based Detection: Monitored systems for unauthorized access attempts, privilege escalation, and malware indicators.
-- 📊 Dashboard Navigation: Used the Kibana-based Wazuh dashboard to visualize and query event data for security insights.
+- SIEM Deployment: Configured Wazuh Manager, Agent, and Dashboard components for centralized monitoring.
+- Alert Correlation: Investigated Wazuh-generated alerts, reviewed rulesets, and identified high-confidence security incidents.
+- Host-Based Detection: Monitored systems for unauthorized access attempts, privilege escalation, and malware indicators.
+- Dashboard Navigation: Used the Kibana-based Wazuh dashboard to visualize and query event data for security insights.
 
 ## Exercises
 
